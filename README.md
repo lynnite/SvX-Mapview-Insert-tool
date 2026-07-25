@@ -1,6 +1,12 @@
 # SvX-Mapview-Insert-tool
 Aids in creating new insert files for SVX-Map-viewer.
 
+Usage:
+
+converttool.py is specifically used for SVX-Map-Viewer to format RMC-14's insert marker YML files for the js to read. Reduces manual labor by alot while adding new inserts.
+
+buildimages.py is used to build multiple insert map YML files into webp images without needing to do it manually 1 by 1 through the terminal. It builds every map yml file in the directory specified and outputs into your local RMC14/SVX14 repo's MapImages folder. Also reduces manual labor while adding new inserts but can be used for any task that requires building a mass of files.
+
 How to use:
 converttool.py
 
