@@ -2,7 +2,7 @@
 Aids in creating new insert files for SVX-Map-viewer.
 
 How to use:
-Open converttool.py
+converttool.py
 
 input_filename = "" Path of the file you want to format here 
 
